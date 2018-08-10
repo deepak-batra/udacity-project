@@ -6,7 +6,7 @@
 * Programming language: Python 3.5
 * **requirement** folder defines all the modules required for setup
 * Libraries: keras, tensorflow, cv2, numpy, pandas, sklearn, glob, tqdm, PIL, matplotlib
-* Datasets are available in **dataset** branch, and is divided as follows:
+* Datasets are available in **capstone_images** branch, and is divided as follows:
 	1. For training => **capstone_images/train**
 	2. For validation => **capstone_images/valid**
 	3. For testing => **capstone_images/test**
